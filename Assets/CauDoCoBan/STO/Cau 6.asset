@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d09015fd2f29449b38383879db47ae, type: 3}
+  m_Name: Cau 6
+  m_EditorClassIdentifier: 
+  imgCauHoi: {fileID: 21300000, guid: 403282a1035277547b04bf257ea259fa, type: 3}
+  imgDapAn: {fileID: 21300000, guid: 289bbe7b14cf76043a4db522c27fa881, type: 3}
+  hienThiDapAn: 1
+  dapAn: 16
+  txtCauHoi:
+  - How many squares are there?
+  - "C\xF3 bao nhi\xEAu h\xECnh vu\xF4ng?"
+  hienThiVanBanGiaiThich: 1
+  txtGiaiThich:
+  - There are 9 small squares, 5 medium squares, 1 large square and 1 very large
+    square.
+  - "C\xF3 9 h\xECnh vu\xF4ng nh\u1ECF, 5 h\xECnh vu\xF4ng v\u1EEBa, 1 h\xECnh vu\xF4ng
+    l\u1EDBn v\xE0 1 h\xECnh vu\xF4ng r\u1EA5t l\u1EDBn."

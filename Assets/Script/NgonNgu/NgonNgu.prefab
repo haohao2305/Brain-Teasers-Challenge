@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3475530156407480802
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3475530156407480807}
+  - component: {fileID: 3475530156407480804}
+  - component: {fileID: 3475530156407480805}
+  m_Layer: 0
+  m_Name: NgonNgu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3475530156407480807
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3475530156407480802}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3475530156407480804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3475530156407480802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1535642021215de4fae36ef6f59d9980, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tuDien: {fileID: 3475530156407480805}
+--- !u!114 &3475530156407480805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3475530156407480802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 681d7faa2c6853c43afde22f2434ab56, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  danhSach:
+  - key: man
+    txt:
+    - 'Level:'
+    - "M\xE0n:"
+  - key: endlc1
+    txt:
+    - Complete
+    - "Ho\xE0n Th\xE0nh"
+  - key: ngonngu
+    txt:
+    - 'Language: English'
+    - "Ng\xF4n ng\u1EEF: Ti\u1EBFng vi\u1EC7t"
+  - key: thongtin
+    txt:
+    - Information
+    - "Th\xF4ng tin"
+  - key: chucnangdangxaydung
+    txt:
+    - Functionality is being built.
+    - "Ch\u1EE9c n\u0103ng \u0111ang \u0111\u01B0\u1EE3c x\xE2y d\u1EF1ng."
+  - key: caudoluachonl1
+    txt:
+    - Intellectual investigation
+    - "\u0110i\u1EC1u tra tr\xED tu\u1EC7"
+  - key: caudocoban
+    txt:
+    - fun math problem
+    - "To\xE1n h\u1ECDc vui"
+  - key: tieptuc
+    txt:
+    - "Ti\u1EBFp t\u1EE5c"
+    - Continue

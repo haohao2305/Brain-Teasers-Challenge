@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d09015fd2f29449b38383879db47ae, type: 3}
+  m_Name: Cau 11
+  m_EditorClassIdentifier: 
+  imgCauHoi: {fileID: 21300000, guid: caadda8df2f07c44884858f47be87fd4, type: 3}
+  imgDapAn: {fileID: 21300000, guid: 289bbe7b14cf76043a4db522c27fa881, type: 3}
+  hienThiDapAn: 1
+  dapAn: 20
+  txtCauHoi:
+  - A man buys a horse for $50 and sells it for $60, then the man buys the horse
+    back for $70 and sells it for $80. asked the man how much profit he made
+  - "M\u1ED9t ng\u01B0\u1EDDi \u0111\xE0n \xF4ng mua m\u1ED9t con ng\u1EF1a v\u1EDBi
+    gi\xE1 50 \u0111\xF4 la v\xE0 b\xE1n n\xF3 v\u1EDBi gi\xE1 60 \u0111\xF4 la,
+    sau \u0111\xF3 ng\u01B0\u1EDDi \u0111\xE0n \xF4ng mua l\u1EA1i con ng\u1EF1a
+    v\u1EDBi gi\xE1 70 \u0111\xF4 la v\xE0 b\xE1n n\xF3 v\u1EDBi gi\xE1 80 \u0111\xF4
+    la. h\u1ECFi ng\u01B0\u1EDDi \u0111\xE0n \xF4ng r\u1EB1ng anh ta ki\u1EBFm \u0111\u01B0\u1EE3c
+    bao nhi\xEAu l\u1EE3i nhu\u1EADn"
+  hienThiVanBanGiaiThich: 1
+  txtGiaiThich:
+  - Every time he buys and sells, the man makes a profit of $10
+  - "M\u1ED7i l\u1EA7n mua v\xE0 b\xE1n, ng\u01B0\u1EDDi \u0111\xE0n \xF4ng ki\u1EBFm
+    \u0111\u01B0\u1EE3c 10 \u0111\xF4"

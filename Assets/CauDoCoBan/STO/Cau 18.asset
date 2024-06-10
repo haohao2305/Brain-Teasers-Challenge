@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d09015fd2f29449b38383879db47ae, type: 3}
+  m_Name: Cau 18
+  m_EditorClassIdentifier: 
+  imgCauHoi: {fileID: 21300000, guid: ec080bff9b9e42a40a405e058d78ca4c, type: 3}
+  imgDapAn: {fileID: 21300000, guid: 289bbe7b14cf76043a4db522c27fa881, type: 3}
+  hienThiDapAn: 1
+  dapAn: 5
+  txtCauHoi:
+  - Assuming 5 cats can catch 5 mice within 5 minutes, how many cats are needed to
+    catch 100 mice within 100 minutes?
+  - "Gi\u1EA3 s\u1EED 5 con m\xE8o c\xF3 th\u1EC3 b\u1EAFt \u0111\u01B0\u1EE3c 5
+    con chu\u1ED9t trong v\xF2ng 5 ph\xFAt th\xEC c\u1EA7n bao nhi\xEAu con m\xE8o
+    \u0111\u1EC3 b\u1EAFt \u0111\u01B0\u1EE3c 100 con chu\u1ED9t trong v\xF2ng 100
+    ph\xFAt?"
+  hienThiVanBanGiaiThich: 0
+  txtGiaiThich:
+  - 
+  - 

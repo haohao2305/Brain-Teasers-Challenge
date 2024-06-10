@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d09015fd2f29449b38383879db47ae, type: 3}
+  m_Name: Cau 14
+  m_EditorClassIdentifier: 
+  imgCauHoi: {fileID: 21300000, guid: 7ff67eee43820844d922f04d33461b4d, type: 3}
+  imgDapAn: {fileID: 21300000, guid: 289bbe7b14cf76043a4db522c27fa881, type: 3}
+  hienThiDapAn: 1
+  dapAn: 120
+  txtCauHoi:
+  - The total value of a headset and an umbrella is $140. Headphones cost $100 more
+    than umbrellas. How much do headphones cost?
+  - "T\u1ED5ng gi\xE1 tr\u1ECB c\u1EE7a m\u1ED9t chi\u1EBFc tai nghe v\xE0 m\u1ED9t
+    chi\u1EBFc \xF4 l\xE0 140 \u0111\xF4. Tai nghe c\xF3 gi\xE1 cao h\u01A1n \xF4
+    100 \u0111\xF4. Tai nghe gi\xE1 bao nhi\xEAu?"
+  hienThiVanBanGiaiThich: 0
+  txtGiaiThich:
+  - 
+  - 

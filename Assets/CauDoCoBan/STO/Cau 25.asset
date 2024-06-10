@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d09015fd2f29449b38383879db47ae, type: 3}
+  m_Name: Cau 25
+  m_EditorClassIdentifier: 
+  imgCauHoi: {fileID: 21300000, guid: ad35cf752787501449f5116f31498119, type: 3}
+  imgDapAn: {fileID: 21300000, guid: 09116a3eef886824fbddfc447640c8e2, type: 3}
+  hienThiDapAn: 0
+  dapAn: 84
+  txtCauHoi:
+  - Find the missing number
+  - "t\xECm s\u1ED1 c\xF2n thi\u1EBFu"
+  hienThiVanBanGiaiThich: 0
+  txtGiaiThich:
+  - 
+  - 

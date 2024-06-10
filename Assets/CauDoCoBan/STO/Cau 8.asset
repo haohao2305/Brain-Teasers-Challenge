@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d09015fd2f29449b38383879db47ae, type: 3}
+  m_Name: Cau 8
+  m_EditorClassIdentifier: 
+  imgCauHoi: {fileID: 21300000, guid: 86aa6d3dc0267f442899337583d9b3cd, type: 3}
+  imgDapAn: {fileID: 21300000, guid: 5738b1bda71810d4992f7afba3b0ce11, type: 3}
+  dapAn: 27
+  txtCauHoi:
+  - Calculate the weight of both dogs, cats and mice
+  - "T\xEDnh tr\u1ECDng l\u01B0\u1EE3ng c\u1EE7a c\u1EA3 ch\xF3, m\xE8o v\xE0 chu\u1ED9t"
+  hienThiVanBanGiaiThich: 0
+  txtGiaiThich:
+  - 
+  - 

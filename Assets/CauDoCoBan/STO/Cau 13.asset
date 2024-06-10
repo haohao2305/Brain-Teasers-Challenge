@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d09015fd2f29449b38383879db47ae, type: 3}
+  m_Name: Cau 13
+  m_EditorClassIdentifier: 
+  imgCauHoi: {fileID: 21300000, guid: 343a28abffb50d84d9c56ec22bc3e4cd, type: 3}
+  imgDapAn: {fileID: 21300000, guid: 289bbe7b14cf76043a4db522c27fa881, type: 3}
+  hienThiDapAn: 1
+  dapAn: 37
+  txtCauHoi:
+  - When Jack was 6 years old, Anna was half Jack's age. If Jack is 40 years old
+    now, how old is Anna?
+  - "Khi Jack 6 tu\u1ED5i, Anna b\u1EB1ng n\u1EEDa tu\u1ED5i Jack. N\u1EBFu b\xE2y
+    gi\u1EDD Jack 40 tu\u1ED5i th\xEC Anna bao nhi\xEAu tu\u1ED5i?"
+  hienThiVanBanGiaiThich: 1
+  txtGiaiThich:
+  - when Jack was 6 years old Anna was 3 years old, so when Jack was 40 years old
+    Anna was 37 years old
+  - "Khi Jack 6 tu\u1ED5i Anna 3 tu\u1ED5i v\u1EADy khi Jack 40 tu\u1ED5i Anna 37
+    tu\u1ED5i"

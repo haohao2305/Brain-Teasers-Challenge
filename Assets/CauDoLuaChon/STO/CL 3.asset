@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560708034cf71914ebf7f93f539c172c, type: 3}
+  m_Name: CL 3
+  m_EditorClassIdentifier: 
+  tenManEn: The disappearance
+  tenManVi: "V\u1EE5 m\u1EA5t t\xEDch"
+  img: {fileID: 21300000, guid: fc0e9f6afe7d3824dbef49f91f83ce43, type: 3}
+  objCauHoi: {fileID: -3307502091435878216, guid: 0192e41c3c347c8419bba1ecaf925cf0, type: 3}
+  loai: 0
+  motas:
+  - yeuCau:
+    - Recently there have been disappearances in this area. After investigating,
+      the police realized that the most suspicious area was Dan's room. Look for
+      anything unusual?
+    - "D\u1EA1o g\u1EA7n \u0111\xE2y \u1EDF khu v\u1EF1c n\xE0y s\u1EA3y ra c\xE1c
+      v\u1EE5 m\u1EA5t t\xEDch, sau khi \u0111i\u1EC1u tra th\xEC c\u1EA3nh s\xE1t
+      nh\u1EADn ra r\u1EB1ng khu v\u1EF1c kh\u1EA3 nghi nh\u1EA5t l\xE0 c\u0103n
+      ph\xF2ng c\u1EE7a Dan. H\xE3y t\xECm xem c\xF3 g\xEC b\u1EA5t th\u01B0\u1EDDng
+      kh\xF4ng?"
+    lyGiai:
+    - There is someone in the closet, clearly this is the person who has gone missing.
+    - "C\xF3 ng\u01B0\u1EDDi trong t\u1EE7 r\xF5 r\xE0ng \u0111\xE2y l\xE0 ng\u01B0\u1EDDi
+      \u0111\xE3 b\u1ECB m\u1EA5t t\xEDch."
+  - yeuCau:
+    - It is very likely that the previous disappearances were also caused by Dan,
+      is there any evidence?
+    - "R\u1EA5t c\xF3 kh\u1EA3 n\u0103ng nh\u1EEFng v\u1EE5 m\u1EA5t t\xEDch tr\u01B0\u1EDBc
+      \u0111\xF3 c\u0169ng do Dan g\xE2y ra, c\xF3 ch\u1EE9ng c\u1EE9 g\xEC kh\xF4ng?"
+    lyGiai:
+    - On this paper, the name of three people who have disappeared recently, there
+      is also a brick in their names, which proves that previous disappearance cases
+      are related to Dan.
+    - "Tr\xEAn t\u1EDD gi\u1EA5y n\xE0y ghi t\xEAn ba ng\u01B0\u1EDDi \u0111\xE3
+      m\u1EA5t t\xEDch g\u1EA7n \u0111\xE2y, c\xF2n c\xF3 v\u1EBFt g\u1EA1ch \u1EDF
+      t\xEAn c\u1EE7a h\u1ECD \u0111i\u1EC1u n\xE0y ch\u1EE9ng t\u1ECF c\xE1c v\u1EE5
+      m\u1EA5t t\xEDch tr\u01B0\u1EDBc \u0111\xF3 \u0111\u1EC1u li\xEAn quan \u0111\u1EBFn
+      Dan."
+  - yeuCau:
+    - According to information from surrounding people, Dan rarely goes out, they
+      only saw Dan go out before the disappearances happened. Is there anything that
+      proves this is true?
+    - "Theo nh\u01B0 th\xF4ng tin c\u1EE7a ng\u01B0\u1EDDi d\xE2n xung quanh th\xEC
+      r\u1EA5t \xEDt khi Dan ra ngo\xE0i, h\u1ECD ch\u1EC9 th\u1EA5y Dan ra ngo\xE0i
+      tr\u01B0\u1EDBc khi c\xE1c v\u1EE5 m\u1EA5t t\xEDch x\u1EA3y ra. C\xF3 g\xEC
+      ch\u1EE9ng minh \u0111i\u1EC1u n\xE0y \u0111\xFAng kh\xF4ng?"
+    lyGiai:
+    - Dan rarely goes out and the trash bags are still in the room.
+    - "Dan r\u1EA5t \xEDt khi ra ngo\xE0i c\xE1c t\xFAi r\xE1c v\u1EABn c\xF2n trong
+      ph\xF2ng."
+  - yeuCau:
+    - Before committing these crimes, Dan was an excellent student. Is there any
+      proof?
+    - "Tr\u01B0\u1EDBc khi g\xE2y ra c\xE1c v\u1EE5 \xE1n n\xE0y Dan t\u1EEBng l\xE0
+      m\u1ED9t sinh vi\xEAn \u01B0u t\xFA. C\xF3 g\xEC ch\u1EE9ng minh kh\xF4ng?"
+    lyGiai:
+    - This certificate of merit is from Dan
+    - "B\u1EB1ng khen n\xE0y c\u1EE7a Dan."
+  - yeuCau:
+    - Because of his excellence, Dan has many people's expectations, causing pressure
+      leading to mental instability. This information correct?
+    - "V\xEC s\u1EF1 xu\u1EA5t s\u1EAFc c\u1EE7a m\xECnh n\xEAn Dan \u0111\u01B0\u1EE3c
+      nhi\u1EC1u ng\u01B0\u1EDDi k\u1EF3 v\u1ECDng, g\xE2y \xE1p l\u1EF1c d\u1EABn
+      \u0111\u1EBFn tinh th\u1EA7n b\u1EA5t \u1ED5n. Th\xF4ng tin n\xE0y c\xF3 \u0111\xFAng
+      kh\xF4ng?"
+    lyGiai:
+    - This potion must be a sedative.
+    - "L\u1ECD thu\u1ED1c n\xE0y ch\u1EAFc h\u1EB3n l\xE0 thu\u1ED1c an th\u1EA7n."

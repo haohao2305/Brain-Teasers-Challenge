@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d09015fd2f29449b38383879db47ae, type: 3}
+  m_Name: Cau 10
+  m_EditorClassIdentifier: 
+  imgCauHoi: {fileID: 21300000, guid: 45371b40d8d92cb40b9fe8139322ffc3, type: 3}
+  imgDapAn: {fileID: 21300000, guid: 289bbe7b14cf76043a4db522c27fa881, type: 3}
+  hienThiDapAn: 1
+  dapAn: 4
+  txtCauHoi:
+  - 2 ducks go before 2 ducks. 2 ducks follow 2 ducks. 2 ducks walking between 2
+    ducks. asked how many ducks there were
+  - "2 con v\u1ECBt \u0111i tr\u01B0\u1EDBc 2 con v\u1ECBt. 2 con v\u1ECBt \u0111i
+    sau 2 con v\u1ECBt. 2 con v\u1ECBt \u0111i gi\u1EEFa 2 con v\u1ECBt. h\u1ECFi
+    c\xF3 bao nhi\xEAu con v\u1ECBt"
+  hienThiVanBanGiaiThich: 1
+  txtGiaiThich:
+  - 4 ducks walk in a straight line
+  - "4 con v\u1ECBt \u0111i tr\xEAn m\u1ED9t \u0111\u01B0\u1EDDng th\u1EB3ng"
