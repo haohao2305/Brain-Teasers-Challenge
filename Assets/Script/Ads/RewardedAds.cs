@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class RewardedAds : MonoBehaviour
 {
     [SerializeField] Button obt;
-    private string _adUnitId = "ca-app-pub-4484935644217440/8428718300";
+    private string _adUnitId = "";
     private RewardedAd _rewardedAd;
     private bool _isAdLoaded = false;
     [SerializeField] private XemDapAn xemDapAnTHV;

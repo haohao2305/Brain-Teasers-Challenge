@@ -936,6 +936,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: NgonNgu
       objectReference: {fileID: 0}
+    - target: {fileID: 3475530156407480805, guid: b4f3b533ef0400f4fb6971e799991c9e, type: 3}
+      propertyPath: danhSach.Array.data[7].txt.Array.data[0]
+      value: Continue
+      objectReference: {fileID: 0}
+    - target: {fileID: 3475530156407480805, guid: b4f3b533ef0400f4fb6971e799991c9e, type: 3}
+      propertyPath: danhSach.Array.data[7].txt.Array.data[1]
+      value: "Ti\u1EBFp t\u1EE5c"
+      objectReference: {fileID: 0}
     - target: {fileID: 3475530156407480807, guid: b4f3b533ef0400f4fb6971e799991c9e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -2575,7 +2583,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -150, y: 0}
+  m_AnchoredPosition: {x: -150.00002, y: 0}
   m_SizeDelta: {x: -300, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &856441837
@@ -4659,7 +4667,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 542.3101, y: -44.599304}
+  m_AnchoredPosition: {x: 542.89984, y: -44.703144}
   m_SizeDelta: {x: 1059.1, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1350429245
